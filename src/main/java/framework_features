@@ -1,0 +1,4 @@
+//1. use dependency injection to decide which adapter to user (RestAssured or HttpClient)
+//2. log request/response in allure report
+//3. run test in aws lambda
+//4. create performance framework - refer .dotnet core serverless api performance
